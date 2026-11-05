@@ -1,8 +1,8 @@
 # Awesome AI Ads [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for researching, making and running ads with AI: free ad libraries, official ads APIs
-> and MCP servers for agents, agent skills, platform creative specs, open-source marketing tools and AI ad creative
-> tools.
+> A curated list of resources for researching, making and running ads with AI: free ad libraries, official ads APIs,
+> Meta Ads, Google Ads and TikTok Ads MCP servers for AI agents, agent skills, platform creative specs, open-source
+> marketing tools and AI ad creative tools.
 
 Every link was checked by hand when it was added. Commercial tools are labelled; nothing here pays to be listed.
 
@@ -11,6 +11,7 @@ Every link was checked by hand when it was added. Commercial tools are labelled;
 - [Ad libraries](#ad-libraries)
 - [Creative inspiration](#creative-inspiration)
 - [Official ads MCP servers](#official-ads-mcp-servers)
+- [Community ads MCP servers](#community-ads-mcp-servers)
 - [Ads APIs](#ads-apis)
 - [Agent skills for marketing](#agent-skills-for-marketing)
 - [Platform creative specs](#platform-creative-specs)
@@ -40,7 +41,8 @@ ones that work.
 ## Official ads MCP servers
 
 Servers run or published by the ad platforms themselves, so an AI agent can read and manage campaigns. Most are in beta;
-check each page for access.
+check each page for access. A hosted server is added by its URL: in Claude under Connectors, in ChatGPT as an app in
+developer mode, and in Cursor in `mcp.json`.
 
 - [Google Ads MCP server](https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server) - Open-source and read-only, from the Google Ads API team.
 - [Google Analytics MCP server](https://github.com/googleanalytics/google-analytics-mcp) - Read GA4 reports and account data from an agent.
@@ -48,6 +50,17 @@ check each page for access.
 - [TikTok Agentic Hub](https://ads.tiktok.com/business/en/blog/tiktok-agentic-hub-ai-agents-skills-mcp) - TikTok's hub of skills and MCP access for agents working with TikTok for Business.
 - [Amazon Ads MCP server](https://advertising.amazon.com/library/news/amazon-ads-mcp-server-open-beta) - Open beta for partners with Amazon Ads API access.
 - [Microsoft Advertising MCP server](https://about.ads.microsoft.com/en/solutions/technology/agentic-commerce/mcp-server) - Pilot of an MCP server for Microsoft Advertising.
+
+## Community ads MCP servers
+
+MCP servers from third parties, with source on GitHub. Listed alphabetically; a server whose main offering is a hosted
+commercial service is labelled.
+
+- [AdLoop](https://github.com/kLOsk/adloop) - Read and write Google Ads, Reddit Ads and GA4 from an agent, with guardrails against accidental spend. Self-hosted or hosted.
+- [Adspirer Ads MCP](https://github.com/amekala/ads-mcp) - Remote server for Google Ads, Meta Ads, TikTok Ads and LinkedIn Ads campaigns. Commercial hosted service.
+- [mcp-google-ads](https://github.com/cohnen/mcp-google-ads) - Google Ads campaigns, performance metrics and keyword data from Claude, Cursor or Windsurf.
+- [meta-ads-mcp](https://github.com/mikusnuz/meta-ads-mcp) - Self-hosted server for the Meta Marketing API: campaigns, audiences, creatives, insights and catalogs.
+- [Pipeboard Meta Ads MCP](https://github.com/pipeboard-co/meta-ads-mcp) - Meta Ads campaigns, creative and insights from Claude, ChatGPT or Cursor. Commercial hosted service.
 
 ## Ads APIs
 
