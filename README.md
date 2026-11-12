@@ -118,6 +118,7 @@ does.
 - [Arcads](https://www.arcads.ai/) - UGC-style video ads with AI actors reading your script.
 - [Creatify](https://creatify.ai/) - Turns a product URL into video ads with AI avatars.
 - [HeyGen](https://www.heygen.com/) - AI avatar videos, voice cloning and video translation.
+- [makeaicreator](https://makeaicreator.com/) - Consistent AI influencer from a plain-language persona; face-locked photos, voiceover videos and product-in-hand clips for ads. Paid, with subscription credits.
 - [Pencil](https://www.trypencil.com/) - Generative ad creative with brand kits and performance predictions.
 - [Predis.ai](https://predis.ai/) - AI social media posts, carousels and video ads from a prompt.
 - [Zeely](https://zeely.app/) - AI ads and landing pages for small businesses.
