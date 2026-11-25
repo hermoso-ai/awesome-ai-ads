@@ -123,6 +123,7 @@ does.
 - [HeyGen](https://www.heygen.com/) - AI avatar videos, voice cloning and video translation.
 - [Pencil](https://www.trypencil.com/) - Generative ad creative with brand kits and performance predictions.
 - [Predis.ai](https://predis.ai/) - AI social media posts, carousels and video ads from a prompt.
+- [Valmera](https://valmera.io/use-cases/ugc-ads) - Edits existing creator footage into video ads and alternate hooks using AI.
 - [Zeely](https://zeely.app/) - AI ads and landing pages for small businesses.
 
 ## Learning
