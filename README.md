@@ -84,6 +84,7 @@ Agent Skills are folders of instructions an AI agent loads when a task matches.
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - Skills for CRO, copywriting, SEO, analytics and growth.
 - [skills.sh](https://skills.sh) - Directory and CLI (`npx skills add`) for installing skills into any agent.
 - [ClawHub](https://clawhub.ai) - Registry of skills for OpenClaw and other agents.
+- [Qonvert Marketing AI — Review Ad Performance](https://github.com/Qonvert-Marketing-AI/qonvert-marketing-skills/blob/main/skills/review-ad-performance/SKILL.md) - Review an ad report for spend and recorded conversions, then propose evidence-backed adjustments for approval.
 
 ## Platform creative specs
 
